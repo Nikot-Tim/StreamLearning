@@ -1,1 +1,1 @@
-![Certificate](sertificate.png)
+![Certificate](certificate.png)
